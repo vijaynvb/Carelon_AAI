@@ -1,0 +1,13 @@
+Chat GPT: 
+
+end user -> Chat GPT [Application]->    LLM Model [Gpt-4o]
+         ->   Langchain            ->   AWS BedRock []
+
+
+Console sign-in URL	User name	Password
+https://stalwartarlabs.signin.aws.amazon.com/console	SL_User1_AR	Welcome@123 
+5 -> API Key
+https://stalwartarlabs.signin.aws.amazon.com/console	SL_User2_AR	Welcome@123
+https://stalwartarlabs.signin.aws.amazon.com/console	SL_User3_AR	Welcome@123
+https://stalwartarlabs.signin.aws.amazon.com/console	SL_User4_AR	Welcome@123
+https://stalwartarlabs.signin.aws.amazon.com/console	SL_User5_AR	Welcome@123
